@@ -8,7 +8,7 @@ Eh bien... disons que... il ne sert pas à grand chose. Simplement à vous diver
 MacronBot possède actuellement 22 phrases connues avec couplées avec plus de 75 mots-clés. Ce qui permet au robot de répondre *à peu près* au bon moment.
 
 ### Où le trouver ?
-Actuellement, vous ne pouvez retrouver MacronBot uniquement sur Discord grâce à son [lien d'invitation](https://discord.com/api/oauth2/authorize?client_id=737659120219586652&permissions=67584&scope=bot).
+Actuellement, vous ne pouvez utilser MacronBot uniquement sur Discord grâce à son [lien d'invitation](https://discord.com/api/oauth2/authorize?client_id=737659120219586652&permissions=67584&scope=bot).
 Il est prévu qu'une version Twitter soit développée, affaire à suivre.
 
 ### Comment participer au projet ?
