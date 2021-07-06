@@ -4,7 +4,7 @@
   "description": "MacronBot est un bot à visée ironique et divertissante rassemblant des phrases ayant été prononcées par le grand, le seul, l'unique, Emannuel Macron.",
   "main": "index.js",
   "dependencies": {
-    "dayjs": "^1.10.5",
+    "dayjs": "^1.10.6",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0"
   },
