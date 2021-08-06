@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "dayjs": "^1.10.5",
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.0.0",
     "dotenv": "^10.0.0"
   },
   "keywords": [
